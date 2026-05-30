@@ -34,25 +34,16 @@ This repository provides datasets, analysis scripts, topic modeling outputs, fig
 
 The study addresses the following research questions:
 
-### RQ1
+**RQ1:** What quantum computing security tools and frameworks are discussed by practitioners, and what usage patterns and engagement levels are reflected in their discussions?
 
-What tools and frameworks are most frequently discussed in quantum computing security-related practitioner discussions?
+**RQ2:** What security-related topics are most frequently discussed by practitioners in quantum computing contexts?
 
-### RQ2
+**RQ3:** Which classical and quantum computing algorithms are discussed in the context of quantum computing security?
 
-What security-related topics emerge from practitioner discussions, and how do these topics evolve over time?
+**RQ4:** What are the key challenges practitioners face in quantum computing security?
 
-### RQ3
-
-Which quantum and post-quantum algorithms are most frequently discussed within security-related practitioner discourse?
-
-### RQ4
-
-What challenges do practitioners encounter when developing, implementing, or securing quantum computing systems?
-
-### RQ5
-
-What emotional expressions are present in practitioner discussions on quantum computing security?
+**RQ5:** What types of emotional expressions are present in practitioner discussions about quantum computing security?
+curity?
 
 ---
 
